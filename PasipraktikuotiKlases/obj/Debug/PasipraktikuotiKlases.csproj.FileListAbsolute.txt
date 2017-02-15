@@ -1,1 +1,2 @@
 c:\users\egidijus\documents\visual studio 2015\Projects\PasipraktikuotiKlases\PasipraktikuotiKlases\bin\Debug\PasipraktikuotiKlases.exe.config
+C:\Users\Egidijus\Documents\Visual Studio 2015\Projects\NaujasProjektasss\KlasiuApjungimas\PasipraktikuotiKlases\bin\Debug\PasipraktikuotiKlases.exe.config

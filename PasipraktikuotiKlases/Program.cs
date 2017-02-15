@@ -10,6 +10,7 @@ namespace PasipraktikuotiKlases
     {
         static void Main(string[] args)
         {
+            //adfgdffdgdfgdfgdf
         }
     }
 }
