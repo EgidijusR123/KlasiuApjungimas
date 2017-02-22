@@ -74,6 +74,7 @@ namespace PasipraktikuotiKlases
         }
         private void Parinkimas(Automoblis automobilis, Zmogus zmogus,List<DraudimoKompanijos> draudimai,double koeficeintas)
         {
+            Console.WriteLine("");
             Console.ForegroundColor = ConsoleColor.White;
             Isvedimas(automobilis, zmogus);
             foreach (var draudimas in draudimai)
@@ -93,9 +94,7 @@ namespace PasipraktikuotiKlases
                     Console.WriteLine("{1} draus ir kaina bus {0} EUR.", (draudimas.DraudimoKaina * koeficeintas), draudimas.DraudimoPavadinimas);
                 }
             }
-            Console.WriteLine("");
         }
-
         static void Main(string[] args)
         {
             Program programele = new Program();
